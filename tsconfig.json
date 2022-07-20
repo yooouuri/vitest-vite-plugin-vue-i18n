@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": [
+      "vitest",
+      "vite/client",
+      "@intlify/vite-plugin-vue-i18n/client"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+  ]
+}
