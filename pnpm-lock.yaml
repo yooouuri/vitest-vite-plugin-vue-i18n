@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@intlify/vite-plugin-vue-i18n': ^5.0.0
+  '@intlify/vite-plugin-vue-i18n': ^5.0.1
   '@vitejs/plugin-vue': ^3.0.1
   '@vue/test-utils': ^2.0.2
   jsdom: ^20.0.0
@@ -11,7 +11,7 @@ specifiers:
   vue-i18n: 9.2.0-beta.40
 
 devDependencies:
-  '@intlify/vite-plugin-vue-i18n': 5.0.0_hvhdbr35sew7s6we2zdn6gu4my
+  '@intlify/vite-plugin-vue-i18n': 5.0.1_hvhdbr35sew7s6we2zdn6gu4my
   '@vitejs/plugin-vue': 3.0.1_vite@3.0.2+vue@3.2.37
   '@vue/test-utils': 2.0.2_vue@3.2.37
   jsdom: 20.0.0
@@ -93,8 +93,8 @@ packages:
     engines: {node: '>= 14'}
     dev: true
 
-  /@intlify/vite-plugin-vue-i18n/5.0.0_hvhdbr35sew7s6we2zdn6gu4my:
-    resolution: {integrity: sha512-49W7y2b0m6Cg6qGoBkjdNgxyzFx3iOSbnxvDaWcN65raaceJVuwCwxXX1SqJbjHTg32rpTFi4jSlroqAV9Rr0w==}
+  /@intlify/vite-plugin-vue-i18n/5.0.1_hvhdbr35sew7s6we2zdn6gu4my:
+    resolution: {integrity: sha512-+LAUdm5PxGtLrUYgD2Wg9SINmLmhZqrcTnzccfqopca5NvaXWOPnQR4cQOkn82qLuyjWdCYC1BoqMHWBWX/MyQ==}
     engines: {node: '>= 14.6'}
     peerDependencies:
       petite-vue-i18n: '*'
